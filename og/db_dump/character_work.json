@@ -1,0 +1,6732 @@
+[
+    {
+        "character_id": "1apparition-mac",
+        "index": 0,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "1citizen",
+        "index": 1,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "1conspirator",
+        "index": 2,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "1gentleman-oth",
+        "index": 3,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "1goth",
+        "index": 4,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "1murderer",
+        "index": 5,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "1musician-oth",
+        "index": 6,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "1musician-rj",
+        "index": 7,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "1officer-oth",
+        "index": 8,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "1player-ham",
+        "index": 9,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "1senator-cor",
+        "index": 10,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "1senator-oth",
+        "index": 11,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "1servant-rj",
+        "index": 12,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "1servingman",
+        "index": 13,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "1soldier",
+        "index": 14,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "1watchman-ma",
+        "index": 15,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "1watchman-rj",
+        "index": 16,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "1witch-mac",
+        "index": 17,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "2apparition-mac",
+        "index": 18,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "2conspirator",
+        "index": 19,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "2gentleman-oth",
+        "index": 20,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "2goth",
+        "index": 21,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "2murderer",
+        "index": 22,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "2musician-rj",
+        "index": 23,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "2patrician",
+        "index": 24,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "2senator-cor",
+        "index": 25,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "2senator-oth",
+        "index": 26,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "2servant-rj",
+        "index": 27,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "2servingman",
+        "index": 28,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "2soldier",
+        "index": 29,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "2watchman-ma",
+        "index": 30,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "2watchman-rj",
+        "index": 31,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "2witch-mac",
+        "index": 32,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "3apparition-mac",
+        "index": 33,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "3conspirator",
+        "index": 34,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "3gentleman-oth",
+        "index": 35,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "3goth",
+        "index": 36,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "3murderer",
+        "index": 37,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "3musician-rj",
+        "index": 38,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "3servingman",
+        "index": 39,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "3watchman-rj",
+        "index": 40,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "3witch-mac",
+        "index": 41,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "4gentleman-oth",
+        "index": 42,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Aaron",
+        "index": 43,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Abbot",
+        "index": 44,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Abergavenny",
+        "index": 45,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Abhorson",
+        "index": 46,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "abraham-rj",
+        "index": 47,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Achilles",
+        "index": 48,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "adam-ayli",
+        "index": 49,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "ADRIANA",
+        "index": 50,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Adrian-tem",
+        "index": 51,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "aedile",
+        "index": 52,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "AEGEON",
+        "index": 53,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "AEMILIA",
+        "index": 54,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Aemilius",
+        "index": 55,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Aeneas",
+        "index": 56,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Agamemnon",
+        "index": 57,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Agrippa",
+        "index": 58,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "aguecheek",
+        "index": 59,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Ajax",
+        "index": 60,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Alarbus",
+        "index": 61,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Alcibiades",
+        "index": 62,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Alexander",
+        "index": 63,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "AlexanderIden",
+        "index": 64,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Alexas",
+        "index": 65,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Alice",
+        "index": 66,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "All-ac",
+        "index": 67,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "all-aw",
+        "index": 68,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "allcitizens",
+        "index": 69,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "AllConspirators",
+        "index": 70,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "all-cor",
+        "index": 71,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "All-cym",
+        "index": 72,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "AllGoths",
+        "index": 73,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "All-h5",
+        "index": 74,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "All-h61",
+        "index": 75,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "All-h62",
+        "index": 76,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "All-h63",
+        "index": 77,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "All-h8",
+        "index": 78,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "all-ham",
+        "index": 79,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "All-jc",
+        "index": 80,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "all-kr2",
+        "index": 81,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "AllLadies",
+        "index": 82,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "AllLords",
+        "index": 83,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "AllLords-tim",
+        "index": 84,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "all-mac",
+        "index": 85,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "All-mnd",
+        "index": 86,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "all-mv",
+        "index": 87,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "all-mww",
+        "index": 88,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "all-oth",
+        "index": 89,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "AllPeople",
+        "index": 90,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "All-per",
+        "index": 91,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "All-r3",
+        "index": 92,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "AllServants-tim",
+        "index": 93,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "All-ta",
+        "index": 94,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "All-tc",
+        "index": 95,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "All-tim",
+        "index": 96,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "all-ts",
+        "index": 97,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Alonso",
+        "index": 98,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "ambassador",
+        "index": 99,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "amiens",
+        "index": 100,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Andromache",
+        "index": 101,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "ANGELO",
+        "index": 102,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Angelo-m4m",
+        "index": 103,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "angus",
+        "index": 104,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "AnneBullen",
+        "index": 105,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "annepage",
+        "index": 106,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Another",
+        "index": 107,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Antenor",
+        "index": 108,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Antigonus",
+        "index": 109,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Antiochus",
+        "index": 110,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "AntiochusDaughter",
+        "index": 111,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "ANTIPHOLUSEPHESUS",
+        "index": 112,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "ANTIPHOLUSSYRACUSE",
+        "index": 113,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "antonio",
+        "index": 114,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "ANTONIO-12",
+        "index": 115,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Antonio-mv",
+        "index": 116,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Antonio-tem",
+        "index": 117,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Antonio-tg",
+        "index": 118,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "antony",
+        "index": 119,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "antony",
+        "index": 120,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Apemantus",
+        "index": 121,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "apothecary",
+        "index": 122,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Archidamus",
+        "index": 123,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Ariel",
+        "index": 124,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Artemidorus",
+        "index": 125,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Arthur",
+        "index": 126,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Arviragus",
+        "index": 127,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Attandants-ac",
+        "index": 128,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Attendant-ac",
+        "index": 129,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Attendant-cym",
+        "index": 130,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "attendant-mac",
+        "index": 131,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "audrey",
+        "index": 132,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Aumerle",
+        "index": 133,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Autolycus",
+        "index": 134,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Bagot",
+        "index": 135,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "balthasar",
+        "index": 136,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "balthasar-ma",
+        "index": 137,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Balthasar-mv",
+        "index": 138,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "BALTHAZAR",
+        "index": 139,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Banditti",
+        "index": 140,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "banquo",
+        "index": 141,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "baptista",
+        "index": 142,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "bardolph",
+        "index": 143,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "bardolph",
+        "index": 144,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "bardolphlesser",
+        "index": 145,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "bardolphlesser",
+        "index": 146,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "bardolph-mww",
+        "index": 147,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Barnardine",
+        "index": 148,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Bassanio",
+        "index": 149,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Basset",
+        "index": 150,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Bassianus",
+        "index": 151,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "BastardOrleans",
+        "index": 152,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Bates",
+        "index": 153,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Bawd",
+        "index": 154,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Beadle",
+        "index": 155,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "beadle1",
+        "index": 156,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "beadle2",
+        "index": 157,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "beatrice",
+        "index": 158,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "bedford",
+        "index": 159,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "bedford",
+        "index": 160,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Belarius",
+        "index": 161,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "belch",
+        "index": 162,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "benedick",
+        "index": 163,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "benvolio",
+        "index": 164,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Berkeley",
+        "index": 165,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "bernardo",
+        "index": 166,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "BERTRAM",
+        "index": 167,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Bevis",
+        "index": 168,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "bianca",
+        "index": 169,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "bianca-oth",
+        "index": 170,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Bigot",
+        "index": 171,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "biondello",
+        "index": 172,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Biron",
+        "index": 173,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "BishopCarlisle",
+        "index": 174,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "BishopLincoln",
+        "index": 175,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Blanch",
+        "index": 176,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "blunt",
+        "index": 177,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "blunt",
+        "index": 178,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Blunt-r3",
+        "index": 179,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Boatswain",
+        "index": 180,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Bolingbroke-h62",
+        "index": 181,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Bona",
+        "index": 182,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "borachio",
+        "index": 183,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "both-aw",
+        "index": 184,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "bothcitizens",
+        "index": 185,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "both-cor",
+        "index": 186,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Both-h62",
+        "index": 187,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Both-h8",
+        "index": 188,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Both-per",
+        "index": 189,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Both-r3",
+        "index": 190,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Both-tim",
+        "index": 191,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "bothtribunes",
+        "index": 192,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Bottom",
+        "index": 193,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Boult",
+        "index": 194,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Bourbon",
+        "index": 195,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Boyet",
+        "index": 196,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "boy-h5",
+        "index": 197,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Boy-h61",
+        "index": 198,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "boy-ma",
+        "index": 199,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Boy-r3",
+        "index": 200,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Boy-tc",
+        "index": 201,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "brabantio",
+        "index": 202,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Brandon-h8",
+        "index": 203,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "brothers-h4p2",
+        "index": 204,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Brutus",
+        "index": 205,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "bullcalf",
+        "index": 206,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Bushy",
+        "index": 207,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "caithness",
+        "index": 208,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Caius",
+        "index": 209,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "CaiusLucius",
+        "index": 210,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Calchas",
+        "index": 211,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Caliban",
+        "index": 212,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Calpurnia",
+        "index": 213,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "cambridge",
+        "index": 214,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Camillo",
+        "index": 215,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Campeius",
+        "index": 216,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Canidius",
+        "index": 217,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "canterbury",
+        "index": 218,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Caphis",
+        "index": 219,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Captain-ac",
+        "index": 220,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Captain-h61",
+        "index": 221,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Captain-h62",
+        "index": 222,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "captain-kl",
+        "index": 223,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "Captain-kr2",
+        "index": 224,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "captain-ta",
+        "index": 225,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Capucius",
+        "index": 226,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "capulet",
+        "index": 227,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "capulet2",
+        "index": 228,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "CardinalBourchier",
+        "index": 229,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "CardinalPandulph",
+        "index": 230,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Carrier",
+        "index": 231,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "Casca",
+        "index": 232,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Cassandra",
+        "index": 233,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "cassio",
+        "index": 234,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Cassius",
+        "index": 235,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Cato",
+        "index": 236,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "celia",
+        "index": 237,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Ceres",
+        "index": 238,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Cerimon",
+        "index": 239,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Chamberlain",
+        "index": 240,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "charles-ayli",
+        "index": 241,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Charles-h61",
+        "index": 242,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Charmian",
+        "index": 243,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Chatillon",
+        "index": 244,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "chiefjustice",
+        "index": 245,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Children-r3",
+        "index": 246,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Chiron",
+        "index": 247,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Chorus-h5",
+        "index": 248,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Chorus-h8",
+        "index": 249,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "chorus-rj",
+        "index": 250,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Chorus-tc",
+        "index": 251,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "ChristopherUrswick",
+        "index": 252,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "cicero",
+        "index": 253,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Cinna",
+        "index": 254,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "CinnaPoet",
+        "index": 255,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "citizen",
+        "index": 256,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "citizens",
+        "index": 257,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Citizens-jc",
+        "index": 258,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Citizens-r3",
+        "index": 259,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "claudio",
+        "index": 260,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Claudio-m4m",
+        "index": 261,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "claudius",
+        "index": 262,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Claudius-jc",
+        "index": 263,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Cleomenes",
+        "index": 264,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Cleon",
+        "index": 265,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Cleopatra",
+        "index": 266,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "ClerkChatham",
+        "index": 267,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Clerk-mv",
+        "index": 268,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Clitus",
+        "index": 269,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Cloten",
+        "index": 270,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "clown1-ham",
+        "index": 271,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "clown2-ham",
+        "index": 272,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Clown-ac",
+        "index": 273,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Clown-aw",
+        "index": 274,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "clown-oth",
+        "index": 275,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "clown-ta",
+        "index": 276,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Clown-wt",
+        "index": 277,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Cobweb",
+        "index": 278,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "colville",
+        "index": 279,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "cominius",
+        "index": 280,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Commons",
+        "index": 281,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "conrade",
+        "index": 282,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Constable",
+        "index": 283,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Constance",
+        "index": 284,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "cordelia",
+        "index": 285,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "corin",
+        "index": 286,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "coriolanus",
+        "index": 287,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "cornelius",
+        "index": 288,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Cornelius-cym",
+        "index": 289,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Costard",
+        "index": 290,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "CountessAuvergne",
+        "index": 291,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Countess-aw",
+        "index": 292,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Court",
+        "index": 293,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Courtezan",
+        "index": 294,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Cranmer",
+        "index": 295,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Cressida",
+        "index": 296,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Crier-h8",
+        "index": 297,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Cromwell",
+        "index": 298,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Cupid",
+        "index": 299,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "curan",
+        "index": 300,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "CURIO",
+        "index": 301,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "curtis",
+        "index": 302,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "cymbeline",
+        "index": 303,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Dardanius",
+        "index": 304,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "dauphin",
+        "index": 305,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "davy",
+        "index": 306,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Decius Brutus",
+        "index": 307,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Deiphobus",
+        "index": 308,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Demetrius",
+        "index": 309,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Demetrius-ac",
+        "index": 310,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Demetrius-mnd",
+        "index": 311,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "dennis",
+        "index": 312,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Denny",
+        "index": 313,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Dercetas",
+        "index": 314,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "desdemona",
+        "index": 315,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "DIANA",
+        "index": 316,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Diana-per",
+        "index": 317,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "DickButcher",
+        "index": 318,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Diomedes",
+        "index": 319,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Diomedes-tc",
+        "index": 320,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Dion",
+        "index": 321,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Dionyza",
+        "index": 322,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "DocButts",
+        "index": 323,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "doctorcaius",
+        "index": 324,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "doctor-kl",
+        "index": 325,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "doctor-mac",
+        "index": 326,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "dogberry",
+        "index": 327,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Dolabella",
+        "index": 328,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "DomitiusEnobarus",
+        "index": 329,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "DonAdriano",
+        "index": 330,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "donalbain",
+        "index": 331,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "donjohn",
+        "index": 332,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "donpedro",
+        "index": 333,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Dorcas",
+        "index": 334,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "drawer2",
+        "index": 335,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "drawer3",
+        "index": 336,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "DROMIOEPHESUS",
+        "index": 337,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "DROMIOSYRACUSE",
+        "index": 338,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "DuchessGloucester",
+        "index": 339,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "DuchessYork",
+        "index": 340,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "DuchessYork-r3",
+        "index": 341,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Duke",
+        "index": 342,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "dukealbany",
+        "index": 343,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "DukeAlencon",
+        "index": 344,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "duke-ayli",
+        "index": 345,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "DukeBuckingham",
+        "index": 346,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "DukeBuckingham-h6",
+        "index": 347,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "DukeBuckingham-h6",
+        "index": 348,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "dukeburgundy",
+        "index": 349,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "dukeburgundy-h5",
+        "index": 350,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "dukeburgundy-h5",
+        "index": 351,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "dukecornwall",
+        "index": 352,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "dukeflorence",
+        "index": 353,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "dukemilan",
+        "index": 354,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "DukeNorfolk",
+        "index": 355,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "DukeNorfolk-h63",
+        "index": 356,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "DukeNorfolk-h63",
+        "index": 357,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "DukeSuffolk",
+        "index": 358,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "DukeSurrey",
+        "index": 359,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "dukevenice",
+        "index": 360,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Dull",
+        "index": 361,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "Dumain",
+        "index": 362,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "duncan",
+        "index": 363,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "EarlDouglas",
+        "index": 364,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "earlkent",
+        "index": 365,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "earlnorth",
+        "index": 366,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "earlnorth",
+        "index": 367,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "earlnorth",
+        "index": 368,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "EarlNorthumberland",
+        "index": 369,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "EarlOxford",
+        "index": 370,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "EarlOxford",
+        "index": 371,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "EarlRichmond",
+        "index": 372,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "EarlSuffolk",
+        "index": 373,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "EarlSuffolk",
+        "index": 374,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "EarlSurrey",
+        "index": 375,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "EarlSurrey-r3",
+        "index": 376,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "EarlWestmoreland-h63",
+        "index": 377,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "edgar",
+        "index": 378,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "EdmondRutland",
+        "index": 379,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "edmund",
+        "index": 380,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "EdmundLangley",
+        "index": 381,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "EdmundMortimer",
+        "index": 382,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "EdmundMortimer",
+        "index": 383,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "EdwardPlantagenet",
+        "index": 384,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "EdwardPlantagenet",
+        "index": 385,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "EdwardPlantagenet",
+        "index": 386,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Egeus",
+        "index": 387,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Eglamour",
+        "index": 388,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "Egyptian",
+        "index": 389,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Elbow",
+        "index": 390,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Eleanor",
+        "index": 391,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "ely",
+        "index": 392,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "emilia",
+        "index": 393,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Emilia-wt",
+        "index": 394,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "EnglishHerald",
+        "index": 395,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Eros",
+        "index": 396,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "erpingham",
+        "index": 397,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "escalus",
+        "index": 398,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Escalus-m4m",
+        "index": 399,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Escanes",
+        "index": 400,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Essex",
+        "index": 401,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Euphronius",
+        "index": 402,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "exeter",
+        "index": 403,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "exeter",
+        "index": 404,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "exeter",
+        "index": 405,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Exton",
+        "index": 406,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "FABIAN-12",
+        "index": 407,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Fairy",
+        "index": 408,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "falstaff",
+        "index": 409,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "falstaff",
+        "index": 410,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "falstaff",
+        "index": 411,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "falstaff",
+        "index": 412,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "fang",
+        "index": 413,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Father",
+        "index": 414,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Faulconbridge",
+        "index": 415,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "feeble",
+        "index": 416,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "fenton",
+        "index": 417,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Ferdinand",
+        "index": 418,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "Ferdinand-tem",
+        "index": 419,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "FESTE",
+        "index": 420,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "FifthCitizen",
+        "index": 421,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstAmbassador-h5",
+        "index": 422,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "FirstAttendant",
+        "index": 423,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "FirstBandit",
+        "index": 424,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FirstBrother",
+        "index": 425,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstCaptain-cym",
+        "index": 426,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstCarrier",
+        "index": 427,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "FirstCitizen",
+        "index": 428,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstCitizen-h62",
+        "index": 429,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "FirstCitizen-jc",
+        "index": 430,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "FirstCitizen-kjo",
+        "index": 431,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "FirstCitizen-r3",
+        "index": 432,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "FirstCommoner",
+        "index": 433,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "FirstExecutioner",
+        "index": 434,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "FirstFish",
+        "index": 435,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstGaoler",
+        "index": 436,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstGaoler-h61",
+        "index": 437,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "FirstGentleman",
+        "index": 438,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "FirstGentleman-aw",
+        "index": 439,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "FirstGentleman-cym",
+        "index": 440,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstGentleman-h62",
+        "index": 441,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "FirstGentleman-h8",
+        "index": 442,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "FirstGentleman-wt",
+        "index": 443,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "FirstGent-per",
+        "index": 444,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstGuard",
+        "index": 445,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "FirstHerald-kr2",
+        "index": 446,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "FirstKeeper",
+        "index": 447,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "FirstKnight-per",
+        "index": 448,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstLady",
+        "index": 449,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FirstLady-cym",
+        "index": 450,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstLady-wt",
+        "index": 451,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "FirstLord",
+        "index": 452,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstLord-aw",
+        "index": 453,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "firstlord-ayli",
+        "index": 454,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "FirstLord-cym",
+        "index": 455,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstLord-lll",
+        "index": 456,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "FirstLord-per",
+        "index": 457,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstLord-tim",
+        "index": 458,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FirstLord-wt",
+        "index": 459,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "FirstMerchant",
+        "index": 460,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "FirstMessenger-h63",
+        "index": 461,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "FirstMurderer-h62",
+        "index": 462,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "FirstMurderer-r3",
+        "index": 463,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "FirstNeighbour-h62",
+        "index": 464,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "FirstOfficer-12",
+        "index": 465,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "FirstOfficer-ac",
+        "index": 466,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "FirstOfficer-cor",
+        "index": 467,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstOutlaw",
+        "index": 468,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "FirstPetitioner-h62",
+        "index": 469,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "FirstPirate",
+        "index": 470,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstPrentice",
+        "index": 471,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "FirstRoman",
+        "index": 472,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstSailor-per",
+        "index": 473,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstSecretary",
+        "index": 474,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "FirstSenator",
+        "index": 475,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FirstSenator-cym",
+        "index": 476,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstSentinel",
+        "index": 477,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "FirstServant-ac",
+        "index": 478,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "FirstServant-mww",
+        "index": 479,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "FirstServant-per",
+        "index": 480,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "FirstServant-tim",
+        "index": 481,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FirstServant-wt",
+        "index": 482,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "FirstServiceman",
+        "index": 483,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstServingman",
+        "index": 484,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FirstSoldier-ac",
+        "index": 485,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "FirstSoldier-aw",
+        "index": 486,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "FirstSoldier-h61",
+        "index": 487,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "FirstSoldier-jc",
+        "index": 488,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "FirstStranger",
+        "index": 489,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FirstTraveller",
+        "index": 490,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "FirstTribune",
+        "index": 491,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FirstWarder",
+        "index": 492,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "FirstWatchman-h63",
+        "index": 493,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Flaminius-tim",
+        "index": 494,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Flavius",
+        "index": 495,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Flavius-jc",
+        "index": 496,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "fleance",
+        "index": 497,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Florizel",
+        "index": 498,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "fluellen",
+        "index": 499,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Flute",
+        "index": 500,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "fool-kl",
+        "index": 501,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "Fool-tim",
+        "index": 502,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "ford",
+        "index": 503,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Forester",
+        "index": 504,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "fortinbras",
+        "index": 505,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "FourthCitizen",
+        "index": 506,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "FourthCitizen-jc",
+        "index": 507,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "FourthLord",
+        "index": 508,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "FourthLord-aw",
+        "index": 509,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "FourthMessenger",
+        "index": 510,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "FourthSoldier-ac",
+        "index": 511,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Francisca",
+        "index": 512,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "francisco",
+        "index": 513,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Francisco-tem",
+        "index": 514,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "francis-h4p2",
+        "index": 515,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "francis-h4p2",
+        "index": 516,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "frederick",
+        "index": 517,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "FrenchHerald",
+        "index": 518,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "frenchking",
+        "index": 519,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Frenchman",
+        "index": 520,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "FrenchSoldier",
+        "index": 521,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "friarfrancis",
+        "index": 522,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "friarjohn",
+        "index": 523,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "friarlaurence",
+        "index": 524,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "FriarPeter",
+        "index": 525,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "FriarThomas",
+        "index": 526,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Froth",
+        "index": 527,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "gadshill",
+        "index": 528,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "Gallus",
+        "index": 529,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Gaoler",
+        "index": 530,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Gaoler-wt",
+        "index": 531,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Gardener",
+        "index": 532,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Gardiner",
+        "index": 533,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Garter",
+        "index": 534,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "garterhost",
+        "index": 535,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "General-h61",
+        "index": 536,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Gentleman-aw",
+        "index": 537,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Gentleman-h8",
+        "index": 538,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "gentleman-kl",
+        "index": 539,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "gentleman-oth",
+        "index": 540,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Gentleman-r3",
+        "index": 541,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Gentleman-wt",
+        "index": 542,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Gentlemen-r3",
+        "index": 543,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "gentlewoman-cor",
+        "index": 544,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "gentlewoman-mac",
+        "index": 545,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "gents-ham",
+        "index": 546,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "GeorgePlantagenet",
+        "index": 547,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "GeorgePlantagenet",
+        "index": 548,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "gertrude",
+        "index": 549,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Girl-r3",
+        "index": 550,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "glendower",
+        "index": 551,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "Gloucester",
+        "index": 552,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Gloucester",
+        "index": 553,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Gloucester",
+        "index": 554,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Gloucester",
+        "index": 555,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "glouchester",
+        "index": 556,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "goneril",
+        "index": 557,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "Gonzalo",
+        "index": 558,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "GovHarfleur",
+        "index": 559,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "gower",
+        "index": 560,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "gower",
+        "index": 561,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Gower-per",
+        "index": 562,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Grandpre",
+        "index": 563,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "gratiano",
+        "index": 564,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Gratiano-mv",
+        "index": 565,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Green",
+        "index": 566,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "gregory",
+        "index": 567,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "gremio",
+        "index": 568,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "grey",
+        "index": 569,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Griffith",
+        "index": 570,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Groom",
+        "index": 571,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "groom1",
+        "index": 572,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "groom2",
+        "index": 573,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "groom3",
+        "index": 574,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "grumio",
+        "index": 575,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Guard",
+        "index": 576,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Guiderius",
+        "index": 577,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "guildenstern",
+        "index": 578,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Guildford",
+        "index": 579,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Gurney",
+        "index": 580,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "haberdasher",
+        "index": 581,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "hamgent",
+        "index": 582,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "hamghost",
+        "index": 583,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "hamlet",
+        "index": 584,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "hamplayers",
+        "index": 585,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "hampriest",
+        "index": 586,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "harcourt",
+        "index": 587,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "hastings",
+        "index": 588,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "hecate",
+        "index": 589,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Hector",
+        "index": 590,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Helen",
+        "index": 591,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "HELENA",
+        "index": 592,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Helena-mnd",
+        "index": 593,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Helen-cym",
+        "index": 594,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Helenus",
+        "index": 595,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Helicanus",
+        "index": 596,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "henry4",
+        "index": 597,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "henry4",
+        "index": 598,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "henry4",
+        "index": 599,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "henry5",
+        "index": 600,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "henry5",
+        "index": 601,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "henry5",
+        "index": 602,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Henry6",
+        "index": 603,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Henry6",
+        "index": 604,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Henry6",
+        "index": 605,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Henry6",
+        "index": 606,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Henry7",
+        "index": 607,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Henry8",
+        "index": 608,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "HenryBeaufort",
+        "index": 609,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "HenryBeaufort",
+        "index": 610,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "herald-cor",
+        "index": 611,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "herald-h5",
+        "index": 612,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Herald-h62",
+        "index": 613,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "herald-kl",
+        "index": 614,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "herald-oth",
+        "index": 615,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Hermia",
+        "index": 616,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Hermione",
+        "index": 617,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "hero",
+        "index": 618,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Hippolyta",
+        "index": 619,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Holofernes",
+        "index": 620,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "horatio",
+        "index": 621,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "hortensio",
+        "index": 622,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Hortensius",
+        "index": 623,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Host",
+        "index": 624,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "hostess-ts",
+        "index": 625,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "hotspur",
+        "index": 626,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "hotspur",
+        "index": 627,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "Hubert",
+        "index": 628,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Huntsman",
+        "index": 629,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "huntsman1",
+        "index": 630,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "huntsman2",
+        "index": 631,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "hymen",
+        "index": 632,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Iachimo",
+        "index": 633,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "iago",
+        "index": 634,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Imogen",
+        "index": 635,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Iras",
+        "index": 636,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Iris",
+        "index": 637,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Isabel",
+        "index": 638,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Isabella-m4m",
+        "index": 639,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "JackCade",
+        "index": 640,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Jamy",
+        "index": 641,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Jaquenetta",
+        "index": 642,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "jaques1",
+        "index": 643,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "jaques2",
+        "index": 644,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Jessica",
+        "index": 645,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Jeweller",
+        "index": 646,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "JoanPucelle",
+        "index": 647,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "JohnGaunt",
+        "index": 648,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "JohnHolland",
+        "index": 649,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "JohnHume",
+        "index": 650,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "JohnMorton",
+        "index": 651,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "JohnSouthwell",
+        "index": 652,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "joseph-ts",
+        "index": 653,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Jourdain",
+        "index": 654,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Julia-tg",
+        "index": 655,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "juliet",
+        "index": 656,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Juliet-m4m",
+        "index": 657,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "juliuscaesar",
+        "index": 658,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "juniusbrutus",
+        "index": 659,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Juno",
+        "index": 660,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Jupiter",
+        "index": 661,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Justice",
+        "index": 662,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Katharine-h5",
+        "index": 663,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Katharine-iii",
+        "index": 664,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "katherina",
+        "index": 665,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Keeper",
+        "index": 666,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Keeper-h8",
+        "index": 667,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "kent",
+        "index": 668,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "kingfrance-aw",
+        "index": 669,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "kingfrance-kl",
+        "index": 670,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "kingjohn",
+        "index": 671,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "KingPhilip",
+        "index": 672,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "knight-kl",
+        "index": 673,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "Knights",
+        "index": 674,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "LadyAnne",
+        "index": 675,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "ladycapulet",
+        "index": 676,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Lady-cym",
+        "index": 677,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "LadyFaulconbridge",
+        "index": 678,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Lady-kr2",
+        "index": 679,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "ladymacbeth",
+        "index": 680,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "ladymacduff",
+        "index": 681,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "ladymontague",
+        "index": 682,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "ladynorth",
+        "index": 683,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "ladypercy",
+        "index": 684,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "ladypercy",
+        "index": 685,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "laertes",
+        "index": 686,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "LAFEU",
+        "index": 687,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "lancaster",
+        "index": 688,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "lartius",
+        "index": 689,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Launce",
+        "index": 690,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "Launcelot",
+        "index": 691,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Lavinia",
+        "index": 692,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Lawyer",
+        "index": 693,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "lear",
+        "index": 694,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "lebeau",
+        "index": 695,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "legate",
+        "index": 696,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "lennox",
+        "index": 697,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Leonardo",
+        "index": 698,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "leonato",
+        "index": 699,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Leonatus",
+        "index": 700,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Leonine",
+        "index": 701,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Leontes",
+        "index": 702,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "lepidus",
+        "index": 703,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "lepidus",
+        "index": 704,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Lewis",
+        "index": 705,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Lewis11",
+        "index": 706,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "lieutenant",
+        "index": 707,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Lieutenant-h62",
+        "index": 708,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Ligarius",
+        "index": 709,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "lodovico",
+        "index": 710,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Longaville",
+        "index": 711,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "lord-ayli",
+        "index": 712,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "LordBerkeley",
+        "index": 713,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "LordChamberlain",
+        "index": 714,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "LordChancellor",
+        "index": 715,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "LordClifford",
+        "index": 716,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "LordClifford",
+        "index": 717,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Lord-cym",
+        "index": 718,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "LordFitzwater",
+        "index": 719,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "LordGrey",
+        "index": 720,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "lord-ham",
+        "index": 721,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "LordHastings-63",
+        "index": 722,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "LordHastings-63",
+        "index": 723,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Lord-kr2",
+        "index": 724,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "LordLovel",
+        "index": 725,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "lord-ma",
+        "index": 726,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "lord-mac",
+        "index": 727,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "LordMarshal",
+        "index": 728,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Lord-per",
+        "index": 729,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "LordRivers",
+        "index": 730,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "LordRivers",
+        "index": 731,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "LordSands",
+        "index": 732,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "LordSay",
+        "index": 733,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "LordScales",
+        "index": 734,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "lordscroop",
+        "index": 735,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Lords-cym",
+        "index": 736,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "lords-mac",
+        "index": 737,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Lords-r3",
+        "index": 738,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "LordStafford",
+        "index": 739,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Lords-wt",
+        "index": 740,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "lord-ts",
+        "index": 741,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "LordWilloughby",
+        "index": 742,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Lord-wt",
+        "index": 743,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Lorenzo",
+        "index": 744,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Lovell",
+        "index": 745,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "LUCE",
+        "index": 746,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "lucentio",
+        "index": 747,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Lucetta",
+        "index": 748,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "LUCIANA",
+        "index": 749,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "lucianus",
+        "index": 750,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Lucilius",
+        "index": 751,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Lucilius-jc",
+        "index": 752,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "LuciliusServant",
+        "index": 753,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Lucio",
+        "index": 754,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Lucius",
+        "index": 755,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Lucius-jc",
+        "index": 756,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Lucius-tim",
+        "index": 757,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Lucullus",
+        "index": 758,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Lychorida",
+        "index": 759,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Lymoges",
+        "index": 760,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Lysander",
+        "index": 761,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Lysimachus",
+        "index": 762,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "macbeth",
+        "index": 763,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "macduff",
+        "index": 764,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "macmorris",
+        "index": 765,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "malcolm",
+        "index": 766,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "MALVOLIO",
+        "index": 767,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Mamillius",
+        "index": 768,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Man-h8",
+        "index": 769,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "marcellus",
+        "index": 770,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "MarcusAndronicus",
+        "index": 771,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Mardian",
+        "index": 772,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Margarelon",
+        "index": 773,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "margaret",
+        "index": 774,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Margaret-h61",
+        "index": 775,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Margaret-h61",
+        "index": 776,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Margaret-h61",
+        "index": 777,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Margaret-h61",
+        "index": 778,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "MargaretPlantagenet",
+        "index": 779,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "MARIA",
+        "index": 780,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Maria-lll",
+        "index": 781,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "MARIANA",
+        "index": 782,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Mariana-m4m",
+        "index": 783,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Marina",
+        "index": 784,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Mariners",
+        "index": 785,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Mariner-wt",
+        "index": 786,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "MarquessMontague",
+        "index": 787,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "MarquisDorset",
+        "index": 788,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Marshal",
+        "index": 789,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "martext",
+        "index": 790,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Martius",
+        "index": 791,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Marullus",
+        "index": 792,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Master",
+        "index": 793,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Master-Gunner",
+        "index": 794,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "MasterShip",
+        "index": 795,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "MatthewGoffe",
+        "index": 796,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "MayorAlbans",
+        "index": 797,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "MayorLondon",
+        "index": 798,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "MayorLondon",
+        "index": 799,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "MayorYork",
+        "index": 800,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Mecaenas",
+        "index": 801,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Melun",
+        "index": 802,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Menas",
+        "index": 803,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Menecrates",
+        "index": 804,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Menelaus",
+        "index": 805,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "menenius",
+        "index": 806,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "menteith",
+        "index": 807,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Mercade",
+        "index": 808,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "Merchant",
+        "index": 809,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "mercutio",
+        "index": 810,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Messala",
+        "index": 811,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Messenger-ac",
+        "index": 812,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Messenger-cor",
+        "index": 813,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Messenger-cym",
+        "index": 814,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Messenger-h41",
+        "index": 815,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "messenger-h4p2",
+        "index": 816,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Messenger-h5",
+        "index": 817,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Messenger-h61",
+        "index": 818,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Messenger-h62",
+        "index": 819,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Messenger-h63",
+        "index": 820,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Messenger-h8",
+        "index": 821,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "messenger-ham",
+        "index": 822,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Messenger-jc",
+        "index": 823,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Messenger-kjo",
+        "index": 824,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "messenger-kl",
+        "index": 825,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "Messenger-m4m",
+        "index": 826,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "messenger-ma",
+        "index": 827,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "messenger-mac",
+        "index": 828,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "messenger-oth",
+        "index": 829,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Messenger-per",
+        "index": 830,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Messenger-r3",
+        "index": 831,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Messenger-ta",
+        "index": 832,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Messenger-tim",
+        "index": 833,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "messenger-ts",
+        "index": 834,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "MetellusCimber",
+        "index": 835,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Michael",
+        "index": 836,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Miranda",
+        "index": 837,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "mistressford",
+        "index": 838,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "MistressOverdone",
+        "index": 839,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "mistresspage",
+        "index": 840,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "montague",
+        "index": 841,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "montano",
+        "index": 842,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Montjoy",
+        "index": 843,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Mopsa",
+        "index": 844,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "mortimer",
+        "index": 845,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "morton",
+        "index": 846,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Moth",
+        "index": 847,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "Mother",
+        "index": 848,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Moth-mnd",
+        "index": 849,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "mouldy",
+        "index": 850,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "mowbray",
+        "index": 851,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Mustardseed",
+        "index": 852,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Mutius",
+        "index": 853,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Myrmidons",
+        "index": 854,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "nathaniel-ts",
+        "index": 855,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Nerissa",
+        "index": 856,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Nestor",
+        "index": 857,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "nicholas-ts",
+        "index": 858,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Nobleman-h63",
+        "index": 859,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "norcapt",
+        "index": 860,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "nurse-rj",
+        "index": 861,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Nurse-ta",
+        "index": 862,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "nym",
+        "index": 863,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "nym",
+        "index": 864,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Nymphs",
+        "index": 865,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Oberon",
+        "index": 866,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Octavia",
+        "index": 867,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "octavius",
+        "index": 868,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "octavius",
+        "index": 869,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Officer-ce",
+        "index": 870,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Officer-cor",
+        "index": 871,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Officer-h61",
+        "index": 872,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Officer-wt",
+        "index": 873,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "OldAthenian",
+        "index": 874,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "OldGobbo",
+        "index": 875,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "OldLady-h8",
+        "index": 876,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "oldman-kl",
+        "index": 877,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "oldman-mac",
+        "index": 878,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "OldShepherd",
+        "index": 879,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "oliver",
+        "index": 880,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "OLIVIA",
+        "index": 881,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "ophelia",
+        "index": 882,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "orlando",
+        "index": 883,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "orleans",
+        "index": 884,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "ORSINO",
+        "index": 885,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "osric",
+        "index": 886,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Ostler",
+        "index": 887,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "oswald",
+        "index": 888,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "othello",
+        "index": 889,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Outlaws",
+        "index": 890,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "page1-ayli",
+        "index": 891,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "page2-ayli",
+        "index": 892,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Page-aw",
+        "index": 893,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "page-h4p2",
+        "index": 894,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Page-h8",
+        "index": 895,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "page-mww",
+        "index": 896,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Page-r3",
+        "index": 897,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "page-rj",
+        "index": 898,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Page-tim",
+        "index": 899,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "page-ts",
+        "index": 900,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Painter",
+        "index": 901,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Pandar",
+        "index": 902,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Pandarus",
+        "index": 903,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Panthino",
+        "index": 904,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "paris",
+        "index": 905,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Paris-tc",
+        "index": 906,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "PAROLLES",
+        "index": 907,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Patience",
+        "index": 908,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "patrician",
+        "index": 909,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Patroclus",
+        "index": 910,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Paulina",
+        "index": 911,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Peaseblossom",
+        "index": 912,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "pedant",
+        "index": 913,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Pembroke",
+        "index": 914,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Pembroke-h63",
+        "index": 915,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Perdita",
+        "index": 916,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Pericles",
+        "index": 917,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Peter-h62",
+        "index": 918,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "PeterPomfret",
+        "index": 919,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "peter-rj",
+        "index": 920,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "peter-ts",
+        "index": 921,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "peto",
+        "index": 922,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "peto",
+        "index": 923,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "petruchio",
+        "index": 924,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "phebe",
+        "index": 925,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Philario",
+        "index": 926,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Philemon",
+        "index": 927,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "PhilipBastard",
+        "index": 928,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "philip-ts",
+        "index": 929,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Philo",
+        "index": 930,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Philostrate",
+        "index": 931,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Philotus",
+        "index": 932,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Phrynia",
+        "index": 933,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "PINCH",
+        "index": 934,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Pindarus",
+        "index": 935,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Pisanio",
+        "index": 936,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "pistol",
+        "index": 937,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "pistol",
+        "index": 938,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "pistol",
+        "index": 939,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "players-ts",
+        "index": 940,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "player-ts",
+        "index": 941,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Poet",
+        "index": 942,
+        "work_id": "phoenixturtle"
+    },
+    {
+        "character_id": "Poet",
+        "index": 943,
+        "work_id": "loverscomplaint"
+    },
+    {
+        "character_id": "Poet",
+        "index": 944,
+        "work_id": "sonnets"
+    },
+    {
+        "character_id": "Poet",
+        "index": 945,
+        "work_id": "rapelucrece"
+    },
+    {
+        "character_id": "Poet",
+        "index": 946,
+        "work_id": "passionatepilgrim"
+    },
+    {
+        "character_id": "Poet",
+        "index": 947,
+        "work_id": "venusadonis"
+    },
+    {
+        "character_id": "Poet-jc",
+        "index": 948,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Poet-tim",
+        "index": 949,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "poins",
+        "index": 950,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "poins",
+        "index": 951,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Polixenes",
+        "index": 952,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "polonius",
+        "index": 953,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Pompey",
+        "index": 954,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Pompey-m4m",
+        "index": 955,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Popilius",
+        "index": 956,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "porter",
+        "index": 957,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Porter-h61",
+        "index": 958,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Porter-h8",
+        "index": 959,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "porter-mac",
+        "index": 960,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Portia",
+        "index": 961,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Portia-mv",
+        "index": 962,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Post-h62",
+        "index": 963,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Post-h63",
+        "index": 964,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "PosthumusLeonatus",
+        "index": 965,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Priam",
+        "index": 966,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Priest-12",
+        "index": 967,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Priest-r3",
+        "index": 968,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "PrinceArragon",
+        "index": 969,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "PrinceEdward",
+        "index": 970,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "PrinceEdward",
+        "index": 971,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "PrinceHenry",
+        "index": 972,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "princehumphrey",
+        "index": 973,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "princejohn",
+        "index": 974,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "princejohn",
+        "index": 975,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "PrinceMorocco",
+        "index": 976,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Princes-r3",
+        "index": 977,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "PrincessFrance",
+        "index": 978,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "Proculeius",
+        "index": 979,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Prospero",
+        "index": 980,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Proteus",
+        "index": 981,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "Provost",
+        "index": 982,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Publius",
+        "index": 983,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "publius-jc",
+        "index": 984,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Puck",
+        "index": 985,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Pursuivant",
+        "index": 986,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Queen-cym",
+        "index": 987,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "QueenElinor",
+        "index": 988,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "QueenElizabeth",
+        "index": 989,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "QueenElizabeth",
+        "index": 990,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "QueenKatharine",
+        "index": 991,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Queen-kr2",
+        "index": 992,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "quickly",
+        "index": 993,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "quickly",
+        "index": 994,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "quickly",
+        "index": 995,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "quickly",
+        "index": 996,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Quince",
+        "index": 997,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Quintus",
+        "index": 998,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Rambures",
+        "index": 999,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "Reapers",
+        "index": 1000,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "regan",
+        "index": 1001,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "Reignier",
+        "index": 1002,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "reynaldo",
+        "index": 1003,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Richard2",
+        "index": 1004,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Richard3",
+        "index": 1005,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Richard3",
+        "index": 1006,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "RichardPlantagenet",
+        "index": 1007,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "RichardPlantagenet",
+        "index": 1008,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "RichardPlantagenet",
+        "index": 1009,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "RichardPlantagenet",
+        "index": 1010,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "RichardPlantagenet2",
+        "index": 1011,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "robin",
+        "index": 1012,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "roderigo",
+        "index": 1013,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "RomanCaptain",
+        "index": 1014,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Roman-cor",
+        "index": 1015,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "romeo",
+        "index": 1016,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "rosalind",
+        "index": 1017,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Rosaline-lll",
+        "index": 1018,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "rosencrantz",
+        "index": 1019,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "ross",
+        "index": 1020,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Ross-kr2",
+        "index": 1021,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "rugby",
+        "index": 1022,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "rumour",
+        "index": 1023,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "sailor-ham",
+        "index": 1024,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "sailor-oth",
+        "index": 1025,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Salanio",
+        "index": 1026,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Salarino",
+        "index": 1027,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Salerio",
+        "index": 1028,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "salisbury",
+        "index": 1029,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "salisbury",
+        "index": 1030,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "salisbury",
+        "index": 1031,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Salisbury-kj",
+        "index": 1032,
+        "work_id": "kingjohn"
+    },
+    {
+        "character_id": "Salisbury-kr2",
+        "index": 1033,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "sampson",
+        "index": 1034,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Saturninus",
+        "index": 1035,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Scarus",
+        "index": 1036,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Scout-h61",
+        "index": 1037,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Scribe-h8",
+        "index": 1038,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Scrivener",
+        "index": 1039,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "scroop",
+        "index": 1040,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "scroop",
+        "index": 1041,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "SeaCaptain",
+        "index": 1042,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "SEBASTIAN",
+        "index": 1043,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Sebastian-tem",
+        "index": 1044,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "SecondAttendant",
+        "index": 1045,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "SecondBandit",
+        "index": 1046,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "SecondBrother",
+        "index": 1047,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "SecondCaptain-cym",
+        "index": 1048,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "SecondCarrier",
+        "index": 1049,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "SecondCitizen",
+        "index": 1050,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondCitizen-jc",
+        "index": 1051,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "SecondCitizen-r3",
+        "index": 1052,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SecondCommoner",
+        "index": 1053,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "SecondFish",
+        "index": 1054,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "SecondGaoler",
+        "index": 1055,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "SecondGentleman",
+        "index": 1056,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "SecondGentleman-aw",
+        "index": 1057,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "SecondGentleman-cym",
+        "index": 1058,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "SecondGentleman-h62",
+        "index": 1059,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SecondGentleman-h8",
+        "index": 1060,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "SecondGentleman-wt",
+        "index": 1061,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "SecondGent-per",
+        "index": 1062,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "SecondGuard",
+        "index": 1063,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "SecondHerald-kr2",
+        "index": 1064,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "SecondKeeper",
+        "index": 1065,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SecondKnight-per",
+        "index": 1066,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "SecondLady-wt",
+        "index": 1067,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "SecondLord",
+        "index": 1068,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondLord-aw",
+        "index": 1069,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "secondlord-ayli",
+        "index": 1070,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "SecondLord-cym",
+        "index": 1071,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "SecondLord-per",
+        "index": 1072,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "SecondLord-tim",
+        "index": 1073,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "SecondMerchant",
+        "index": 1074,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "SecondMessenger",
+        "index": 1075,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SecondMessenger-ac",
+        "index": 1076,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "SecondMessenger-cor",
+        "index": 1077,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondMessenger-h63",
+        "index": 1078,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SecondMurderer-h62",
+        "index": 1079,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SecondMurderer-r3",
+        "index": 1080,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SecondNeighbour-h62",
+        "index": 1081,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SecondOfficer-12",
+        "index": 1082,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "SecondOfficer-ac",
+        "index": 1083,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "SecondOfficer-cor",
+        "index": 1084,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondOutlaw",
+        "index": 1085,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "SecondPetitioner-h62",
+        "index": 1086,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SecondPirate",
+        "index": 1087,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "SecondPrentice",
+        "index": 1088,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SecondRoman",
+        "index": 1089,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondSailor-per",
+        "index": 1090,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "SecondSecretary",
+        "index": 1091,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "SecondSenator-cym",
+        "index": 1092,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "SecondSenator-tim",
+        "index": 1093,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "SecondSentinel",
+        "index": 1094,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SecondServant-ac",
+        "index": 1095,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "SecondServant-mww",
+        "index": 1096,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "SecondServant-tim",
+        "index": 1097,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "SecondServant-wt",
+        "index": 1098,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "SecondServiceman",
+        "index": 1099,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondServingman",
+        "index": 1100,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SecondSoldier-ac",
+        "index": 1101,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "SecondSoldier-aw",
+        "index": 1102,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "SecondSoldier-jc",
+        "index": 1103,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "SecondStranger",
+        "index": 1104,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "SecondWarder",
+        "index": 1105,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SecondWatchman-h63",
+        "index": 1106,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Seleucus",
+        "index": 1107,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Sempronius",
+        "index": 1108,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Sempronius-tim",
+        "index": 1109,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "senator-oth",
+        "index": 1110,
+        "work_id": "othello"
+    },
+    {
+        "character_id": "Senator-tim",
+        "index": 1111,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Sentinels",
+        "index": 1112,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Sergeant-h61",
+        "index": 1113,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Sergeant-h8",
+        "index": 1114,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "sergeant-mac",
+        "index": 1115,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Servant",
+        "index": 1116,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Servant-12",
+        "index": 1117,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "servant1-kl",
+        "index": 1118,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "servant1-ts",
+        "index": 1119,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "servant2-kl",
+        "index": 1120,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "servant2-ts",
+        "index": 1121,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "servant3-kl",
+        "index": 1122,
+        "work_id": "kinglear"
+    },
+    {
+        "character_id": "servant3-ts",
+        "index": 1123,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Servant-aw",
+        "index": 1124,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Servant-ce",
+        "index": 1125,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "Servant-h41",
+        "index": 1126,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "servant-h4p2",
+        "index": 1127,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Servant-h61",
+        "index": 1128,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Servant-h62",
+        "index": 1129,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Servant-h8",
+        "index": 1130,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "servant-ham",
+        "index": 1131,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "Servant-jc",
+        "index": 1132,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Servant-kr2",
+        "index": 1133,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "Servant-m4m",
+        "index": 1134,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "servant-mac",
+        "index": 1135,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Servant-mv",
+        "index": 1136,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "servant-mww",
+        "index": 1137,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Servant-per",
+        "index": 1138,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "servant-rj",
+        "index": 1139,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "Servants-h62",
+        "index": 1140,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "servants-ts",
+        "index": 1141,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Servant-tim",
+        "index": 1142,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "servant-ts",
+        "index": 1143,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Servant-wt",
+        "index": 1144,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Servilius",
+        "index": 1145,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "servingmen",
+        "index": 1146,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SeventhCitizen",
+        "index": 1147,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "SeveralCitizens",
+        "index": 1148,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "sexton-ma",
+        "index": 1149,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "seyton",
+        "index": 1150,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "shadow",
+        "index": 1151,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "shallow",
+        "index": 1152,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "shallow",
+        "index": 1153,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "Shepherd-h61",
+        "index": 1154,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "sheriff-h41",
+        "index": 1155,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "Sheriff-h62",
+        "index": 1156,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SheriffWiltshire",
+        "index": 1157,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Shylock",
+        "index": 1158,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "sicinius",
+        "index": 1159,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "silence",
+        "index": 1160,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Silius",
+        "index": 1161,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Silvia",
+        "index": 1162,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "silvius",
+        "index": 1163,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Simonides",
+        "index": 1164,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Simpcox",
+        "index": 1165,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "simple",
+        "index": 1166,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "sirhugh",
+        "index": 1167,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "SirHughMortimer",
+        "index": 1168,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SirHumphrey",
+        "index": 1169,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "SirJamesBlount",
+        "index": 1170,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirJamesTyrrel",
+        "index": 1171,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirJohnFastolfe",
+        "index": 1172,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SirJohnMontgomery",
+        "index": 1173,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SirJohnMortimer",
+        "index": 1174,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SirJohnSomerville",
+        "index": 1175,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SirJohnStanley",
+        "index": 1176,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "sirmichael",
+        "index": 1177,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "SirNathaniel",
+        "index": 1178,
+        "work_id": "loveslabours"
+    },
+    {
+        "character_id": "SirRichardRatcliff",
+        "index": 1179,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirRobertBrakenbury",
+        "index": 1180,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirScroop",
+        "index": 1181,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "SirThomasGargrave",
+        "index": 1182,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SirThomasVaughan",
+        "index": 1183,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirWalterHerbert",
+        "index": 1184,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirWilliamCatesby",
+        "index": 1185,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "SirWilliamGlansdale",
+        "index": 1186,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SirWilliamLucy",
+        "index": 1187,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "SirWilliamStanley",
+        "index": 1188,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SirWilliamStanley",
+        "index": 1189,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "siward",
+        "index": 1190,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "SixthCitizen",
+        "index": 1191,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "slender",
+        "index": 1192,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "sly",
+        "index": 1193,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "SmithWeaver",
+        "index": 1194,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "snare",
+        "index": 1195,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Snout",
+        "index": 1196,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Snug",
+        "index": 1197,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Soldier-ac",
+        "index": 1198,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Soldier-h61",
+        "index": 1199,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Soldier-h62",
+        "index": 1200,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Soldier-h63",
+        "index": 1201,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "soldiers-mac",
+        "index": 1202,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Soldier-tim",
+        "index": 1203,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "SOLINUS",
+        "index": 1204,
+        "work_id": "comedyerrors"
+    },
+    {
+        "character_id": "SomeOthers",
+        "index": 1205,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Somerset",
+        "index": 1206,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Somerset",
+        "index": 1207,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Somerset",
+        "index": 1208,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "SomeSpeak",
+        "index": 1209,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Son-h63",
+        "index": 1210,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "son-mac",
+        "index": 1211,
+        "work_id": "macbeth"
+    },
+    {
+        "character_id": "Soothsayer",
+        "index": 1212,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Soothsayer-ac",
+        "index": 1213,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Soothsayer-cym",
+        "index": 1214,
+        "work_id": "cymbeline"
+    },
+    {
+        "character_id": "Speed",
+        "index": 1215,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "Spirit",
+        "index": 1216,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Starveling",
+        "index": 1217,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "Stephano",
+        "index": 1218,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "Stephano-tem",
+        "index": 1219,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Steward-aw",
+        "index": 1220,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "Strato",
+        "index": 1221,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "surrey",
+        "index": 1222,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Surveyor",
+        "index": 1223,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "tailor",
+        "index": 1224,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Talbot",
+        "index": 1225,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "Tamora",
+        "index": 1226,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Taurus",
+        "index": 1227,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "tearsheet",
+        "index": 1228,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Thaisa",
+        "index": 1229,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Thaliard",
+        "index": 1230,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Thersites",
+        "index": 1231,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Theseus",
+        "index": 1232,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "thieves",
+        "index": 1233,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "ThirdBandit",
+        "index": 1234,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "ThirdCitizen",
+        "index": 1235,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "ThirdCitizen-jc",
+        "index": 1236,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "ThirdCitizen-r3",
+        "index": 1237,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "ThirdFish",
+        "index": 1238,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "ThirdGentleman-h8",
+        "index": 1239,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "ThirdGentleman-wt",
+        "index": 1240,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "ThirdGuard",
+        "index": 1241,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "ThirdKnight-per",
+        "index": 1242,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "ThirdLord",
+        "index": 1243,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "ThirdLord-aw",
+        "index": 1244,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "ThirdLord-per",
+        "index": 1245,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "ThirdLord-tim",
+        "index": 1246,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "ThirdMessenger",
+        "index": 1247,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "ThirdNeighbour-h62",
+        "index": 1248,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "ThirdOfficer-ac",
+        "index": 1249,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "ThirdOutlaw",
+        "index": 1250,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "ThirdPirate",
+        "index": 1251,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "ThirdRoman",
+        "index": 1252,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "ThirdSenator",
+        "index": 1253,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "ThirdServant-tim",
+        "index": 1254,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "ThirdServiceman",
+        "index": 1255,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "ThirdServingman",
+        "index": 1256,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "ThirdSoldier-ac",
+        "index": 1257,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "ThirdSoldier-jc",
+        "index": 1258,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "ThirdStranger",
+        "index": 1259,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "ThirdWatchman-h63",
+        "index": 1260,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "ThMowbray",
+        "index": 1261,
+        "work_id": "richard2"
+    },
+    {
+        "character_id": "thomas-h4p2",
+        "index": 1262,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "ThomasHorner",
+        "index": 1263,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "ThomasRotherham",
+        "index": 1264,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Thurio",
+        "index": 1265,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "Thyreus",
+        "index": 1266,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Timandra",
+        "index": 1267,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Time",
+        "index": 1268,
+        "work_id": "winterstale"
+    },
+    {
+        "character_id": "Timon",
+        "index": 1269,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Tintinius",
+        "index": 1270,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Titania",
+        "index": 1271,
+        "work_id": "midsummer"
+    },
+    {
+        "character_id": "TitusAndronicus",
+        "index": 1272,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Titus-tim",
+        "index": 1273,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "touchstone",
+        "index": 1274,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Townsman-h62",
+        "index": 1275,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "tranio",
+        "index": 1276,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Travellers",
+        "index": 1277,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "travers",
+        "index": 1278,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "Trebonius",
+        "index": 1279,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "Tressel",
+        "index": 1280,
+        "work_id": "richard3"
+    },
+    {
+        "character_id": "Tribunes-ta",
+        "index": 1281,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "Trinculo",
+        "index": 1282,
+        "work_id": "tempest"
+    },
+    {
+        "character_id": "Troilus",
+        "index": 1283,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "Tubal",
+        "index": 1284,
+        "work_id": "merchantvenice"
+    },
+    {
+        "character_id": "tullus",
+        "index": 1285,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "TutorRutland",
+        "index": 1286,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "tybalt",
+        "index": 1287,
+        "work_id": "romeojuliet"
+    },
+    {
+        "character_id": "TyrianSailor",
+        "index": 1288,
+        "work_id": "pericles"
+    },
+    {
+        "character_id": "Ulysses",
+        "index": 1289,
+        "work_id": "troilus"
+    },
+    {
+        "character_id": "ursula",
+        "index": 1290,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Valentine",
+        "index": 1291,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "VALENTINE-12",
+        "index": 1292,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "Valentine-tg",
+        "index": 1293,
+        "work_id": "twogents"
+    },
+    {
+        "character_id": "valeria",
+        "index": 1294,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Varrius",
+        "index": 1295,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "Varrius-m4m",
+        "index": 1296,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Varro",
+        "index": 1297,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "VarroFirst",
+        "index": 1298,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "VarroSecond",
+        "index": 1299,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Vaux",
+        "index": 1300,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Vaux-h62",
+        "index": 1301,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Ventidius",
+        "index": 1302,
+        "work_id": "timonathens"
+    },
+    {
+        "character_id": "Ventidius-ac",
+        "index": 1303,
+        "work_id": "antonycleo"
+    },
+    {
+        "character_id": "verges",
+        "index": 1304,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "Vernon",
+        "index": 1305,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "Vernon",
+        "index": 1306,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "vincentio",
+        "index": 1307,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "Vincentio-m4m",
+        "index": 1308,
+        "work_id": "measure"
+    },
+    {
+        "character_id": "Vintner",
+        "index": 1309,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "VIOLA",
+        "index": 1310,
+        "work_id": "12night"
+    },
+    {
+        "character_id": "VIOLENTA",
+        "index": 1311,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "virgilia",
+        "index": 1312,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Volsce",
+        "index": 1313,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "voltemand",
+        "index": 1314,
+        "work_id": "hamlet"
+    },
+    {
+        "character_id": "volumnia",
+        "index": 1315,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "Volumnius",
+        "index": 1316,
+        "work_id": "juliuscaesar"
+    },
+    {
+        "character_id": "WalterWhitmore",
+        "index": 1317,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "wart",
+        "index": 1318,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "warwick",
+        "index": 1319,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "warwick",
+        "index": 1320,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "warwick",
+        "index": 1321,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "warwick",
+        "index": 1322,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "warwick",
+        "index": 1323,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "Watch-h61",
+        "index": 1324,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "watchman-ma",
+        "index": 1325,
+        "work_id": "muchado"
+    },
+    {
+        "character_id": "westmoreland",
+        "index": 1326,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "westmoreland",
+        "index": 1327,
+        "work_id": "henry4p2"
+    },
+    {
+        "character_id": "westmoreland",
+        "index": 1328,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "westmoreland",
+        "index": 1329,
+        "work_id": "henry6p3"
+    },
+    {
+        "character_id": "widow",
+        "index": 1330,
+        "work_id": "tamingshrew"
+    },
+    {
+        "character_id": "WidowFlorence",
+        "index": 1331,
+        "work_id": "allswell"
+    },
+    {
+        "character_id": "WifeSimpcox",
+        "index": 1332,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "william-ayli",
+        "index": 1333,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "Williams",
+        "index": 1334,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "wmpage",
+        "index": 1335,
+        "work_id": "merrywives"
+    },
+    {
+        "character_id": "WmStafford",
+        "index": 1336,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "Wolsey",
+        "index": 1337,
+        "work_id": "henry8"
+    },
+    {
+        "character_id": "Woodvile",
+        "index": 1338,
+        "work_id": "henry6p1"
+    },
+    {
+        "character_id": "worcester",
+        "index": 1339,
+        "work_id": "henry4p1"
+    },
+    {
+        "character_id": "xxx",
+        "index": 1340,
+        "work_id": "asyoulikeit"
+    },
+    {
+        "character_id": "york",
+        "index": 1341,
+        "work_id": "henry5"
+    },
+    {
+        "character_id": "YoungClifford",
+        "index": 1342,
+        "work_id": "henry6p2"
+    },
+    {
+        "character_id": "YoungCoriolanus",
+        "index": 1343,
+        "work_id": "coriolanus"
+    },
+    {
+        "character_id": "YoungLucius",
+        "index": 1344,
+        "work_id": "titus"
+    },
+    {
+        "character_id": "youngsiward",
+        "index": 1345,
+        "work_id": "macbeth"
+    }
+]
